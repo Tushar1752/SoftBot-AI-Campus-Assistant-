@@ -20,7 +20,7 @@ from step6_softbot import build_softbot, run_turn
 load_dotenv()
 
 st.set_page_config(page_title="SoftBot", page_icon=":robot_face:")
-st.title(":robot_face: SoftBot -- your campus assistant")
+st.title(" SoftBot -- your campus assistant")
 st.caption("A ReAct agent built with create_agent. It looks up the handbook and "
            "does the maths for you.")
  
