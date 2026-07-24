@@ -36,7 +36,7 @@ SoftBot/
 
 ⚙️ Installation
 
-git clone https://github.com/your-username/SoftBot.git
+git clone https://github.com/Tushar1752/SoftBot.git
 cd SoftBot
 python -m venv venv
 # macOS/Linux
